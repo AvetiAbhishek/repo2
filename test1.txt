@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9003-B1A4
+
+ Directory of C:\Users\ABHISHEK\Desktop\MyProject
+
+28-03-2022  08:32    <DIR>          .
+28-03-2022  08:32    <DIR>          ..
+28-03-2022  08:32                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  398,606,635,008 bytes free
